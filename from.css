@@ -1,0 +1,12 @@
+.fa-user{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+#fun-count{
+    position: relative;
+}
+body{
+    font-family: 'Lora', serif;
+
+}
